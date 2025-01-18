@@ -2,10 +2,19 @@
     background-color: #cd1395;
     font-family:Verdana, 'DejaVu Sans', sans-serif
 }
+.top2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+#first {
+    background-color: black;
+    color: white;
+}
 
 #second {
     color: #0000ff;
     font-size: 36px;
+    background-color: yellow;
 }
 
 #third {
